@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    compileSdk 34
+    compileSdk 36
 
     defaultConfig {
         applicationId "top.linesoft.open2share"
         minSdkVersion 21
-        targetSdk 34
+        targetSdk 36
         versionCode 8
         versionName '1.7'
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
